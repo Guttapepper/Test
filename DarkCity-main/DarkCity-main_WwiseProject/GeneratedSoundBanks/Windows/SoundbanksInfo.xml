@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>/Users/macbook/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/PROJECTS/Games/Dark City/DarkCity-main/DarkCity-main_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/macbook/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/PROJECTS/Games/Dark City/DarkCity-main/DarkCity-main_WwiseProject/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/macbook/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/PROJECTS/Games/Dark City/DarkCity-main/DarkCity-main_WwiseProject/GeneratedSoundBanks/Windows/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/macbook/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/PROJECTS/Games/Dark City/DarkCity-main/DarkCity-main_WwiseProject/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1229948536" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Environment</ObjectPath>
+			<ShortName>Environment</ShortName>
+			<Path>Environment.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1229948536" Name="Environment" ObjectPath="\Events\Default Work Unit\Environment" DurationType="Infinite"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="66504976" Language="SFX">
+					<ShortName>Thunder2.wav</ShortName>
+					<Path>SFX/Thunder2_10C4C929.wem</Path>
+				</File>
+				<File Id="289706765" Language="SFX">
+					<ShortName>Dogs_Bark2.wav</ShortName>
+					<Path>SFX/Dogs_Bark2_10C4C929.wem</Path>
+				</File>
+				<File Id="455966689" Language="SFX">
+					<ShortName>Rain.wav</ShortName>
+					<Path>SFX/Rain_D79FB2B7.wem</Path>
+				</File>
+				<File Id="780846326" Language="SFX">
+					<ShortName>Thunder1.wav</ShortName>
+					<Path>SFX/Thunder1_10C4C929.wem</Path>
+				</File>
+				<File Id="986341138" Language="SFX">
+					<ShortName>Dogs_Bark1.wav</ShortName>
+					<Path>SFX/Dogs_Bark1_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2385628198" Name="Footsteps" ObjectPath="\Events\Default Work Unit\Footsteps" DurationType="OneShot" DurationMin="0.371786" DurationMax="0.732664"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="132006117" Language="SFX">
+					<ShortName>Footsteps\Wet\FS_Wet4.wav</ShortName>
+					<Path>SFX/Footsteps/Wet/FS_Wet4_359FC047.wem</Path>
+				</File>
+				<File Id="252314752" Language="SFX">
+					<ShortName>FS_Wet1.wav</ShortName>
+					<Path>SFX/FS_Wet1_928D0C98.wem</Path>
+				</File>
+				<File Id="280838170" Language="SFX">
+					<ShortName>Footsteps\Wet\FS_Wet5.wav</ShortName>
+					<Path>SFX/Footsteps/Wet/FS_Wet5_4B450091.wem</Path>
+				</File>
+				<File Id="328943342" Language="SFX">
+					<ShortName>Footsteps\Concrete\Footstep02.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Footstep02_ED4B0353.wem</Path>
+				</File>
+				<File Id="345654471" Language="SFX">
+					<ShortName>Footsteps\Concrete\Footstep01.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Footstep01_D8EF3C28.wem</Path>
+				</File>
+				<File Id="347832923" Language="SFX">
+					<ShortName>Footsteps\Concrete\Footstep04.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Footstep04_F52CBB02.wem</Path>
+				</File>
+				<File Id="369664790" Language="SFX">
+					<ShortName>Footsteps\Concrete\Footstep03.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Footstep03_9BCABD93.wem</Path>
+				</File>
+				<File Id="399375096" Language="SFX">
+					<ShortName>Footsteps\Wet\FS_Wet6.wav</ShortName>
+					<Path>SFX/Footsteps/Wet/FS_Wet6_1369F621.wem</Path>
+				</File>
+				<File Id="427281166" Language="SFX">
+					<ShortName>Footsteps\Wet\FS_Wet6.wav</ShortName>
+					<Path>SFX/Footsteps/Wet/FS_Wet6_417B956D.wem</Path>
+				</File>
+				<File Id="444859194" Language="SFX">
+					<ShortName>Footsteps\Wet\FS_Wet2.wav</ShortName>
+					<Path>SFX/Footsteps/Wet/FS_Wet2_1BB7301D.wem</Path>
+				</File>
+				<File Id="532015600" Language="SFX">
+					<ShortName>Footsteps\Wet\FS_Wet4.wav</ShortName>
+					<Path>SFX/Footsteps/Wet/FS_Wet4_84CCEBA1.wem</Path>
+				</File>
+				<File Id="609066579" Language="SFX">
+					<ShortName>Footsteps\Wet\FS_Wet3.wav</ShortName>
+					<Path>SFX/Footsteps/Wet/FS_Wet3_884BFA31.wem</Path>
+				</File>
+				<File Id="633276371" Language="SFX">
+					<ShortName>Footsteps\Wet\FS_Wet3.wav</ShortName>
+					<Path>SFX/Footsteps/Wet/FS_Wet3_2CB27EBA.wem</Path>
+				</File>
+				<File Id="652296919" Language="SFX">
+					<ShortName>Footsteps\Concrete\Footstep03.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Footstep03_95D45ED6.wem</Path>
+				</File>
+				<File Id="692758138" Language="SFX">
+					<ShortName>Footsteps\Wet\FS_Wet5.wav</ShortName>
+					<Path>SFX/Footsteps/Wet/FS_Wet5_BDC3377C.wem</Path>
+				</File>
+				<File Id="707884368" Language="SFX">
+					<ShortName>FS_Wet1.wav</ShortName>
+					<Path>SFX/FS_Wet1_C00981C9.wem</Path>
+				</File>
+				<File Id="747257247" Language="SFX">
+					<ShortName>Footsteps\Wet\FS_Wet2.wav</ShortName>
+					<Path>SFX/Footsteps/Wet/FS_Wet2_F554118B.wem</Path>
+				</File>
+				<File Id="799275385" Language="SFX">
+					<ShortName>Footsteps\Concrete\Footstep01.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Footstep01_68E11D37.wem</Path>
+				</File>
+				<File Id="984751732" Language="SFX">
+					<ShortName>Footsteps\Concrete\Footstep02.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Footstep02_DDDA07B2.wem</Path>
+				</File>
+				<File Id="996462194" Language="SFX">
+					<ShortName>Footsteps\Concrete\Footstep04.wav</ShortName>
+					<Path>SFX/Footsteps/Concrete/Footstep04_8390FF09.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
